@@ -2,6 +2,15 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18597142&assignment_repo_type=AssignmentRepo)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
+
+ **Language & Jargon**: Use industry-specific terminology for experts, while simplifying terms or providing definitions for general audiences.  
+ **Depth of Explanation**: Dive deep into technical details for experts but focus on high-level concepts and practical applications for non-experts.  
+ **Examples & Analogies**: Use precise, real-world technical examples for experts; employ relatable analogies for general audiences.  
+ **Format & Presentation**: Experts may prefer dense documentation, while non-experts benefit from visuals, step-by-step guides, and interactive elements.  
+ **Assumed Knowledge**: Avoid redundant explanations for experts, but provide necessary context and background for non-experts.  
+ **Focus on Use Cases**: Experts may value optimization, customization, and advanced features, whereas general audiences need usability and problem-solving guidance.  
+ **Engagement Style**: Experts appreciate data-driven discussions, while non-experts benefit from storytelling and practical demonstrations.  
+
 ## 2. What are some strategies to tailor your content to different audience types?
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
